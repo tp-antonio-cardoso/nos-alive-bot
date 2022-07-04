@@ -1,0 +1,19 @@
+a[role=button], header button{
+    background:#F5D200!important;
+    border: 0!important;
+    color: #111111!important;
+    font-size: 16px!important;
+}
+
+div[role=log]{
+    background: url(bck-chatbot-log.jpg) 0 0 repeat;
+    background-size: cover;
+}
+
+#menu path, button[title=Close] path  {
+    fill: #111111!important;
+}
+
+button[aria-label=next] {
+    right: 0!important;
+}
